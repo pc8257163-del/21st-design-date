@@ -17,14 +17,6 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install System Dependencies for Puppeteer
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable --no-install-recommends || true
-
-      - name: Install Node Dependencies
-        run: npm install
-
       - name: Run Scraper
         run: node fetch.js
 
@@ -33,5 +25,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update 21st.dev components data"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update 21st data"
           git push
