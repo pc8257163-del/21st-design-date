@@ -1,800 +1,400 @@
 [
   {
-    "id": "component-1",
-    "title": "21st UI Component 1",
-    "prompt": "Modern Tailwind design component 1",
+    "id": "ui-comp-1",
+    "title": "Tailwind Component 1",
+    "prompt": "Design component #1",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-2",
-    "title": "21st UI Component 2",
-    "prompt": "Modern Tailwind design component 2",
+    "id": "ui-comp-2",
+    "title": "Tailwind Component 2",
+    "prompt": "Design component #2",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-3",
-    "title": "21st UI Component 3",
-    "prompt": "Modern Tailwind design component 3",
+    "id": "ui-comp-3",
+    "title": "Tailwind Component 3",
+    "prompt": "Design component #3",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-4",
-    "title": "21st UI Component 4",
-    "prompt": "Modern Tailwind design component 4",
+    "id": "ui-comp-4",
+    "title": "Tailwind Component 4",
+    "prompt": "Design component #4",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-5",
-    "title": "21st UI Component 5",
-    "prompt": "Modern Tailwind design component 5",
+    "id": "ui-comp-5",
+    "title": "Tailwind Component 5",
+    "prompt": "Design component #5",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-6",
-    "title": "21st UI Component 6",
-    "prompt": "Modern Tailwind design component 6",
+    "id": "ui-comp-6",
+    "title": "Tailwind Component 6",
+    "prompt": "Design component #6",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-7",
-    "title": "21st UI Component 7",
-    "prompt": "Modern Tailwind design component 7",
+    "id": "ui-comp-7",
+    "title": "Tailwind Component 7",
+    "prompt": "Design component #7",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-8",
-    "title": "21st UI Component 8",
-    "prompt": "Modern Tailwind design component 8",
+    "id": "ui-comp-8",
+    "title": "Tailwind Component 8",
+    "prompt": "Design component #8",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-9",
-    "title": "21st UI Component 9",
-    "prompt": "Modern Tailwind design component 9",
+    "id": "ui-comp-9",
+    "title": "Tailwind Component 9",
+    "prompt": "Design component #9",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-10",
-    "title": "21st UI Component 10",
-    "prompt": "Modern Tailwind design component 10",
+    "id": "ui-comp-10",
+    "title": "Tailwind Component 10",
+    "prompt": "Design component #10",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-11",
-    "title": "21st UI Component 11",
-    "prompt": "Modern Tailwind design component 11",
+    "id": "ui-comp-11",
+    "title": "Tailwind Component 11",
+    "prompt": "Design component #11",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-12",
-    "title": "21st UI Component 12",
-    "prompt": "Modern Tailwind design component 12",
+    "id": "ui-comp-12",
+    "title": "Tailwind Component 12",
+    "prompt": "Design component #12",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-13",
-    "title": "21st UI Component 13",
-    "prompt": "Modern Tailwind design component 13",
+    "id": "ui-comp-13",
+    "title": "Tailwind Component 13",
+    "prompt": "Design component #13",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-14",
-    "title": "21st UI Component 14",
-    "prompt": "Modern Tailwind design component 14",
+    "id": "ui-comp-14",
+    "title": "Tailwind Component 14",
+    "prompt": "Design component #14",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-15",
-    "title": "21st UI Component 15",
-    "prompt": "Modern Tailwind design component 15",
+    "id": "ui-comp-15",
+    "title": "Tailwind Component 15",
+    "prompt": "Design component #15",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-16",
-    "title": "21st UI Component 16",
-    "prompt": "Modern Tailwind design component 16",
+    "id": "ui-comp-16",
+    "title": "Tailwind Component 16",
+    "prompt": "Design component #16",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-17",
-    "title": "21st UI Component 17",
-    "prompt": "Modern Tailwind design component 17",
+    "id": "ui-comp-17",
+    "title": "Tailwind Component 17",
+    "prompt": "Design component #17",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-18",
-    "title": "21st UI Component 18",
-    "prompt": "Modern Tailwind design component 18",
+    "id": "ui-comp-18",
+    "title": "Tailwind Component 18",
+    "prompt": "Design component #18",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-19",
-    "title": "21st UI Component 19",
-    "prompt": "Modern Tailwind design component 19",
+    "id": "ui-comp-19",
+    "title": "Tailwind Component 19",
+    "prompt": "Design component #19",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-20",
-    "title": "21st UI Component 20",
-    "prompt": "Modern Tailwind design component 20",
+    "id": "ui-comp-20",
+    "title": "Tailwind Component 20",
+    "prompt": "Design component #20",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-21",
-    "title": "21st UI Component 21",
-    "prompt": "Modern Tailwind design component 21",
+    "id": "ui-comp-21",
+    "title": "Tailwind Component 21",
+    "prompt": "Design component #21",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-22",
-    "title": "21st UI Component 22",
-    "prompt": "Modern Tailwind design component 22",
+    "id": "ui-comp-22",
+    "title": "Tailwind Component 22",
+    "prompt": "Design component #22",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-23",
-    "title": "21st UI Component 23",
-    "prompt": "Modern Tailwind design component 23",
+    "id": "ui-comp-23",
+    "title": "Tailwind Component 23",
+    "prompt": "Design component #23",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-24",
-    "title": "21st UI Component 24",
-    "prompt": "Modern Tailwind design component 24",
+    "id": "ui-comp-24",
+    "title": "Tailwind Component 24",
+    "prompt": "Design component #24",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-25",
-    "title": "21st UI Component 25",
-    "prompt": "Modern Tailwind design component 25",
+    "id": "ui-comp-25",
+    "title": "Tailwind Component 25",
+    "prompt": "Design component #25",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-26",
-    "title": "21st UI Component 26",
-    "prompt": "Modern Tailwind design component 26",
+    "id": "ui-comp-26",
+    "title": "Tailwind Component 26",
+    "prompt": "Design component #26",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-27",
-    "title": "21st UI Component 27",
-    "prompt": "Modern Tailwind design component 27",
+    "id": "ui-comp-27",
+    "title": "Tailwind Component 27",
+    "prompt": "Design component #27",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-28",
-    "title": "21st UI Component 28",
-    "prompt": "Modern Tailwind design component 28",
+    "id": "ui-comp-28",
+    "title": "Tailwind Component 28",
+    "prompt": "Design component #28",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-29",
-    "title": "21st UI Component 29",
-    "prompt": "Modern Tailwind design component 29",
+    "id": "ui-comp-29",
+    "title": "Tailwind Component 29",
+    "prompt": "Design component #29",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-30",
-    "title": "21st UI Component 30",
-    "prompt": "Modern Tailwind design component 30",
+    "id": "ui-comp-30",
+    "title": "Tailwind Component 30",
+    "prompt": "Design component #30",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-31",
-    "title": "21st UI Component 31",
-    "prompt": "Modern Tailwind design component 31",
+    "id": "ui-comp-31",
+    "title": "Tailwind Component 31",
+    "prompt": "Design component #31",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-32",
-    "title": "21st UI Component 32",
-    "prompt": "Modern Tailwind design component 32",
+    "id": "ui-comp-32",
+    "title": "Tailwind Component 32",
+    "prompt": "Design component #32",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-33",
-    "title": "21st UI Component 33",
-    "prompt": "Modern Tailwind design component 33",
+    "id": "ui-comp-33",
+    "title": "Tailwind Component 33",
+    "prompt": "Design component #33",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-34",
-    "title": "21st UI Component 34",
-    "prompt": "Modern Tailwind design component 34",
+    "id": "ui-comp-34",
+    "title": "Tailwind Component 34",
+    "prompt": "Design component #34",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-35",
-    "title": "21st UI Component 35",
-    "prompt": "Modern Tailwind design component 35",
+    "id": "ui-comp-35",
+    "title": "Tailwind Component 35",
+    "prompt": "Design component #35",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-36",
-    "title": "21st UI Component 36",
-    "prompt": "Modern Tailwind design component 36",
+    "id": "ui-comp-36",
+    "title": "Tailwind Component 36",
+    "prompt": "Design component #36",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-37",
-    "title": "21st UI Component 37",
-    "prompt": "Modern Tailwind design component 37",
+    "id": "ui-comp-37",
+    "title": "Tailwind Component 37",
+    "prompt": "Design component #37",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-38",
-    "title": "21st UI Component 38",
-    "prompt": "Modern Tailwind design component 38",
+    "id": "ui-comp-38",
+    "title": "Tailwind Component 38",
+    "prompt": "Design component #38",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-39",
-    "title": "21st UI Component 39",
-    "prompt": "Modern Tailwind design component 39",
+    "id": "ui-comp-39",
+    "title": "Tailwind Component 39",
+    "prompt": "Design component #39",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-40",
-    "title": "21st UI Component 40",
-    "prompt": "Modern Tailwind design component 40",
+    "id": "ui-comp-40",
+    "title": "Tailwind Component 40",
+    "prompt": "Design component #40",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-41",
-    "title": "21st UI Component 41",
-    "prompt": "Modern Tailwind design component 41",
+    "id": "ui-comp-41",
+    "title": "Tailwind Component 41",
+    "prompt": "Design component #41",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-42",
-    "title": "21st UI Component 42",
-    "prompt": "Modern Tailwind design component 42",
+    "id": "ui-comp-42",
+    "title": "Tailwind Component 42",
+    "prompt": "Design component #42",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-43",
-    "title": "21st UI Component 43",
-    "prompt": "Modern Tailwind design component 43",
+    "id": "ui-comp-43",
+    "title": "Tailwind Component 43",
+    "prompt": "Design component #43",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-44",
-    "title": "21st UI Component 44",
-    "prompt": "Modern Tailwind design component 44",
+    "id": "ui-comp-44",
+    "title": "Tailwind Component 44",
+    "prompt": "Design component #44",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-45",
-    "title": "21st UI Component 45",
-    "prompt": "Modern Tailwind design component 45",
+    "id": "ui-comp-45",
+    "title": "Tailwind Component 45",
+    "prompt": "Design component #45",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-46",
-    "title": "21st UI Component 46",
-    "prompt": "Modern Tailwind design component 46",
+    "id": "ui-comp-46",
+    "title": "Tailwind Component 46",
+    "prompt": "Design component #46",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-47",
-    "title": "21st UI Component 47",
-    "prompt": "Modern Tailwind design component 47",
+    "id": "ui-comp-47",
+    "title": "Tailwind Component 47",
+    "prompt": "Design component #47",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-48",
-    "title": "21st UI Component 48",
-    "prompt": "Modern Tailwind design component 48",
+    "id": "ui-comp-48",
+    "title": "Tailwind Component 48",
+    "prompt": "Design component #48",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-49",
-    "title": "21st UI Component 49",
-    "prompt": "Modern Tailwind design component 49",
+    "id": "ui-comp-49",
+    "title": "Tailwind Component 49",
+    "prompt": "Design component #49",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
   },
   {
-    "id": "component-50",
-    "title": "21st UI Component 50",
-    "prompt": "Modern Tailwind design component 50",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-51",
-    "title": "21st UI Component 51",
-    "prompt": "Modern Tailwind design component 51",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-52",
-    "title": "21st UI Component 52",
-    "prompt": "Modern Tailwind design component 52",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-53",
-    "title": "21st UI Component 53",
-    "prompt": "Modern Tailwind design component 53",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-54",
-    "title": "21st UI Component 54",
-    "prompt": "Modern Tailwind design component 54",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-55",
-    "title": "21st UI Component 55",
-    "prompt": "Modern Tailwind design component 55",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-56",
-    "title": "21st UI Component 56",
-    "prompt": "Modern Tailwind design component 56",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-57",
-    "title": "21st UI Component 57",
-    "prompt": "Modern Tailwind design component 57",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-58",
-    "title": "21st UI Component 58",
-    "prompt": "Modern Tailwind design component 58",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-59",
-    "title": "21st UI Component 59",
-    "prompt": "Modern Tailwind design component 59",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-60",
-    "title": "21st UI Component 60",
-    "prompt": "Modern Tailwind design component 60",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-61",
-    "title": "21st UI Component 61",
-    "prompt": "Modern Tailwind design component 61",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-62",
-    "title": "21st UI Component 62",
-    "prompt": "Modern Tailwind design component 62",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-63",
-    "title": "21st UI Component 63",
-    "prompt": "Modern Tailwind design component 63",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-64",
-    "title": "21st UI Component 64",
-    "prompt": "Modern Tailwind design component 64",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-65",
-    "title": "21st UI Component 65",
-    "prompt": "Modern Tailwind design component 65",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-66",
-    "title": "21st UI Component 66",
-    "prompt": "Modern Tailwind design component 66",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-67",
-    "title": "21st UI Component 67",
-    "prompt": "Modern Tailwind design component 67",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-68",
-    "title": "21st UI Component 68",
-    "prompt": "Modern Tailwind design component 68",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-69",
-    "title": "21st UI Component 69",
-    "prompt": "Modern Tailwind design component 69",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-70",
-    "title": "21st UI Component 70",
-    "prompt": "Modern Tailwind design component 70",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-71",
-    "title": "21st UI Component 71",
-    "prompt": "Modern Tailwind design component 71",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-72",
-    "title": "21st UI Component 72",
-    "prompt": "Modern Tailwind design component 72",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-73",
-    "title": "21st UI Component 73",
-    "prompt": "Modern Tailwind design component 73",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-74",
-    "title": "21st UI Component 74",
-    "prompt": "Modern Tailwind design component 74",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-75",
-    "title": "21st UI Component 75",
-    "prompt": "Modern Tailwind design component 75",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-76",
-    "title": "21st UI Component 76",
-    "prompt": "Modern Tailwind design component 76",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-77",
-    "title": "21st UI Component 77",
-    "prompt": "Modern Tailwind design component 77",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-78",
-    "title": "21st UI Component 78",
-    "prompt": "Modern Tailwind design component 78",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-79",
-    "title": "21st UI Component 79",
-    "prompt": "Modern Tailwind design component 79",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-80",
-    "title": "21st UI Component 80",
-    "prompt": "Modern Tailwind design component 80",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-81",
-    "title": "21st UI Component 81",
-    "prompt": "Modern Tailwind design component 81",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-82",
-    "title": "21st UI Component 82",
-    "prompt": "Modern Tailwind design component 82",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-83",
-    "title": "21st UI Component 83",
-    "prompt": "Modern Tailwind design component 83",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-84",
-    "title": "21st UI Component 84",
-    "prompt": "Modern Tailwind design component 84",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-85",
-    "title": "21st UI Component 85",
-    "prompt": "Modern Tailwind design component 85",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-86",
-    "title": "21st UI Component 86",
-    "prompt": "Modern Tailwind design component 86",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-87",
-    "title": "21st UI Component 87",
-    "prompt": "Modern Tailwind design component 87",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-88",
-    "title": "21st UI Component 88",
-    "prompt": "Modern Tailwind design component 88",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-89",
-    "title": "21st UI Component 89",
-    "prompt": "Modern Tailwind design component 89",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-90",
-    "title": "21st UI Component 90",
-    "prompt": "Modern Tailwind design component 90",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-91",
-    "title": "21st UI Component 91",
-    "prompt": "Modern Tailwind design component 91",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-92",
-    "title": "21st UI Component 92",
-    "prompt": "Modern Tailwind design component 92",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-93",
-    "title": "21st UI Component 93",
-    "prompt": "Modern Tailwind design component 93",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-94",
-    "title": "21st UI Component 94",
-    "prompt": "Modern Tailwind design component 94",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-95",
-    "title": "21st UI Component 95",
-    "prompt": "Modern Tailwind design component 95",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-96",
-    "title": "21st UI Component 96",
-    "prompt": "Modern Tailwind design component 96",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-97",
-    "title": "21st UI Component 97",
-    "prompt": "Modern Tailwind design component 97",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-98",
-    "title": "21st UI Component 98",
-    "prompt": "Modern Tailwind design component 98",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-99",
-    "title": "21st UI Component 99",
-    "prompt": "Modern Tailwind design component 99",
-    "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
-    "video_preview": null,
-    "category": "UI"
-  },
-  {
-    "id": "component-100",
-    "title": "21st UI Component 100",
-    "prompt": "Modern Tailwind design component 100",
+    "id": "ui-comp-50",
+    "title": "Tailwind Component 50",
+    "prompt": "Design component #50",
     "preview_image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
     "video_preview": null,
     "category": "UI"
