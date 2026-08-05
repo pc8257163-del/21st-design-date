@@ -1,4 +1,4 @@
-name: Sync 21st Data
+name: Sync Dribbble Data
 
 on:
   workflow_dispatch:
@@ -20,13 +20,15 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Run Scraper
+      - name: Run Fetcher Script
+        env:
+          DRIBBBLE_TOKEN: ${{ secrets.DRIBBBLE_TOKEN }}
         run: node fetch.js
 
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git commit -m "Auto-update components" || exit 0
+          git commit -m "Auto-update Dribbble data via API" || exit 0
           git push
